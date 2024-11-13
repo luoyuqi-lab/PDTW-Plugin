@@ -9,7 +9,7 @@ We provide 4 well-known lower bounds and their enhanced versions by the PDTW plu
 
 ### All related functions are in `Functions.py`, enhanced lower bounds are in `LB_KP.py`, `LB_NP.py`, `LB_PP.py`, and `LB_WP.py`.
 
-Please read and run Quick_start.py to learn more about how functions work. The example time series data from dataset `Car`. More datasets used in our experiments can be found at [UCR Archive](https://www.cs.ucr.edu/~eamonn/time_series_data_2018/).
+Please read and run Quick_start.py to learn more about how functions work. The example time series data from dataset `CBF`. More datasets used in our experiments can be found at [UCR Archive](https://www.cs.ucr.edu/~eamonn/time_series_data_2018/).
 
 ***
 
